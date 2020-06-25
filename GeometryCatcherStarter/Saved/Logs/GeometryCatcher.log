@@ -1,0 +1,1160 @@
+﻿Log file open, 06/24/20 10:22:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GeometryCatcher
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1312979644) SRandInit(-1312979644).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.478044
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.708s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am NIKHIL-PC (192.168.0.90:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Tools/UE/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.06.24-04.52.17:926][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.24-04.52.17:926][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.24-04.52.17:958][  0]LogInit: Computer: NIKHIL-PC
+[2020.06.24-04.52.17:958][  0]LogInit: User: bunny
+[2020.06.24-04.52.17:958][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.06.24-04.52.17:958][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.24-04.52.17:958][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.06.24-04.52.17:958][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.24-04.52.17:958][  0]LogMemory: Process Physical Memory: 276.03 MB used, 276.04 MB peak
+[2020.06.24-04.52.17:958][  0]LogMemory: Process Virtual Memory: 271.32 MB used, 271.32 MB peak
+[2020.06.24-04.52.17:958][  0]LogMemory: Physical Memory: 5658.78 MB used,  2388.46 MB free, 8047.24 MB total
+[2020.06.24-04.52.17:958][  0]LogMemory: Virtual Memory: 4799.52 MB used,  2388.46 MB free, 134217728.00 MB total
+[2020.06.24-04.52.18:248][  0]LogInit: Using OS detected language (en-US).
+[2020.06.24-04.52.18:248][  0]LogInit: Using OS detected locale (en-IN).
+[2020.06.24-04.52.18:311][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.06.24-04.52.18:979][  0]LogStreaming: Display: Took  0.730s to EndInitTextLocalization.
+[2020.06.24-04.52.18:979][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.24-04.52.19:146][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.24-04.52.19:146][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.24-04.52.23:971][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.24-04.52.24:074][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.06.24-04.52.24:074][  0]LogD3D11RHI:       4021/0/4023 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.06.24-04.52.24:099][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.06.24-04.52.24:099][  0]LogD3D11RHI:       128/0/4023 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.06.24-04.52.24:102][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.24-04.52.24:102][  0]LogD3D11RHI:       0/0/4023 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.24-04.52.24:102][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.24-04.52.24:137][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.24-04.52.24:138][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.06.24-04.52.24:138][  0]LogWindows: EnumDisplayDevices:
+[2020.06.24-04.52.24:138][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.06.24-04.52.24:138][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.06.24-04.52.24:138][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.06.24-04.52.24:139][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.06.24-04.52.24:139][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.06.24-04.52.24:139][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.06.24-04.52.24:139][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.06.24-04.52.24:139][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2020.06.24-04.52.24:209][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2020.06.24-04.52.24:209][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2020.06.24-04.52.24:209][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.24-04.52.24:263][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.24-04.52.24:265][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../../Unreal/GeometryCatcherStarter/Intermediate/Shaders/WorkingDirectory/18880/).
+[2020.06.24-04.52.24:265][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bunny/AppData/Local/Temp/UnrealShaderWorkingDir/8B95FDA9494E1D6DBE94EE8989B27087/'.
+[2020.06.24-04.52.25:675][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.06.24-04.52.25:695][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.06.24-04.52.25:710][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.06.24-04.52.25:729][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.06.24-04.52.25:748][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.06.24-04.52.25:763][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.06.24-04.52.25:778][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.06.24-04.52.25:794][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.06.24-04.52.25:801][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.06.24-04.52.25:817][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.06.24-04.52.25:830][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.06.24-04.52.25:848][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.06.24-04.52.25:861][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2020.06.24-04.52.25:873][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.06.24-04.52.25:884][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.06.24-04.52.25:908][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.06.24-04.52.25:908][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.06.24-04.52.25:926][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.24-04.52.25:927][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.06.24-04.52.25:997][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.06.24-04.52.26:008][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.06.24-04.52.26:020][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.06.24-04.52.26:031][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.06.24-04.52.26:045][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.06.24-04.52.26:064][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.06.24-04.52.26:064][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.24-04.52.26:593][  0]LogXGEController: Cleaning working directory: C:/Users/bunny/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.24-04.52.26:593][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.24-04.52.26:593][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.24-04.52.26:593][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.24-04.52.28:886][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.24-04.52.28:989][  0]LogDerivedDataCache: Loaded boot cache 0.10s 74MB C:/Users/bunny/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2020.06.24-04.52.28:990][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bunny/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2020.06.24-04.52.28:990][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal/GeometryCatcherStarter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.24-04.52.28:990][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.24-04.52.28:990][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal/GeometryCatcherStarter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.24-04.52.28:990][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.24-04.52.29:021][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.24-04.52.29:034][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bunny/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.24-04.52.29:034][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.24-04.52.29:034][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.24-04.52.29:051][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.24-04.52.29:051][  0]LogSlate: Using Freetype 2.6.0
+[2020.06.24-04.52.29:078][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.24-04.52.29:078][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.24-04.52.36:566][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
+[2020.06.24-04.52.36:912][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.24-04.52.37:235][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.06.24-04.52.37:238][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.06.24-04.52.37:238][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.24-04.52.37:238][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.06.24-04.52.37:238][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.06.24-04.52.37:238][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.06.24-04.52.37:281][  0]LogNetVersion: GeometryCatcher , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 957536313)
+[2020.06.24-04.52.39:160][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.218747 seconds
+[2020.06.24-04.52.39:167][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2020.06.24-04.52.39:167][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2020.06.24-04.52.39:167][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.24-04.52.49:610][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.24-04.52.49:638][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.24-04.52.50:216][  0]SourceControl: Source control is disabled
+[2020.06.24-04.52.50:216][  0]SourceControl: Source control is disabled
+[2020.06.24-04.52.50:362][  0]SourceControl: Source control is disabled
+[2020.06.24-04.52.50:417][  0]SourceControl: Source control is disabled
+[2020.06.24-04.52.51:481][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.24-04.52.51:740][  0]LogOcInput: OculusInput pre-init called
+[2020.06.24-04.52.52:791][  0]LogEngine: Initializing Engine...
+[2020.06.24-04.52.52:803][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.24-04.52.52:806][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.06.24-04.52.52:808][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.06.24-04.52.55:010][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.24-04.52.55:545][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.24-04.52.55:710][  0]LogInit: FAudioDevice initialized.
+[2020.06.24-04.52.55:842][  0]LogDerivedDataCache: Saved boot cache 0.13s 74MB C:/Users/bunny/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2020.06.24-04.52.55:865][  0]LogInit: Texture streaming: Enabled
+[2020.06.24-04.52.55:895][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.24-04.52.55:934][  0]LogInit: Transaction tracking system initialized
+[2020.06.24-04.52.56:034][  0]BlueprintLog: New page: Editor Load
+[2020.06.24-04.52.56:287][  0]LocalizationService: Localization service is disabled
+[2020.06.24-04.52.56:499][  0]LogConsoleResponse: Display: 
+[2020.06.24-04.52.56:799][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/GeometryCatcherStarter/Content/' took 0.02s
+[2020.06.24-04.52.56:799][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.24-04.52.56:800][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.24-04.52.56:800][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.06.24-04.52.56:800][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.06.24-04.52.56:800][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.06.24-04.52.58:447][  0]SourceControl: Source control is disabled
+[2020.06.24-04.52.58:450][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Maps/TutorialMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.24-04.52.58:768][  0]LightingResults: New page: Lighting Build
+[2020.06.24-04.52.58:790][  0]MapCheck: New page: Map Check
+[2020.06.24-04.52.58:790][  0]LightingResults: New page: Lighting Build
+[2020.06.24-04.52.59:014][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d5ff108e0, Size=208, Default__BP_GameManager_C Function /Game/GeometryCatcher/Blueprints/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+[2020.06.24-04.52.59:016][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d5ff102c0, Size=200, Default__BP_Shape_C Function /Game/GeometryCatcher/Blueprints/BP_Shape.BP_Shape_C:ExecuteUbergraph_BP_Shape
+[2020.06.24-04.52.59:091][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d69b7ecc0, Size=196, Default__BP_Player_C Function /Game/GeometryCatcher/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2020.06.24-04.52.59:198][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d5ff108e0, Size=208
+[2020.06.24-04.52.59:198][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d023a7ac0, Size=208, Default__BP_GameManager_C Function /Engine/Transient.REINST_BP_GameManager_C_3:ExecuteUbergraph_BP_GameManager
+[2020.06.24-04.52.59:199][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d5ff102c0, Size=200
+[2020.06.24-04.52.59:199][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d023a7580, Size=200, Default__BP_Shape_C Function /Engine/Transient.REINST_BP_Shape_C_4:ExecuteUbergraph_BP_Shape
+[2020.06.24-04.52.59:199][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d69b7ecc0, Size=196
+[2020.06.24-04.52.59:199][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d023a6f60, Size=196, Default__BP_Player_C Function /Engine/Transient.REINST_BP_Player_C_5:ExecuteUbergraph_BP_Player
+[2020.06.24-04.52.59:219][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d0234af60, Size=208, Default__BP_GameManager_C Function /Game/GeometryCatcher/Blueprints/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+[2020.06.24-04.52.59:221][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d0234ae80, Size=200, Default__BP_Shape_C Function /Game/GeometryCatcher/Blueprints/BP_Shape.BP_Shape_C:ExecuteUbergraph_BP_Shape
+[2020.06.24-04.52.59:221][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d0234acc0, Size=196, Default__BP_Player_C Function /Game/GeometryCatcher/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2020.06.24-04.52.59:259][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d7aab5b70, Size=4, Default__TutorialMap_C Function /Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C:ExecuteUbergraph_TutorialMap
+[2020.06.24-04.52.59:260][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d7aab5b70, Size=4
+[2020.06.24-04.52.59:260][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d7aab5b70, Size=4, Default__TutorialMap_C Function /Engine/Transient.REINST_TutorialMap_C_11:ExecuteUbergraph_TutorialMap
+[2020.06.24-04.52.59:260][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d7aab5ba0, Size=4, Default__TutorialMap_C Function /Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C:ExecuteUbergraph_TutorialMap
+[2020.06.24-04.52.59:439][  0]LogAIModule: Creating AISystem for world TutorialMap
+[2020.06.24-04.52.59:473][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.24-04.52.59:498][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d023a7ac0, Size=208
+[2020.06.24-04.52.59:498][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d023a7580, Size=200
+[2020.06.24-04.52.59:498][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d023a6f60, Size=196
+[2020.06.24-04.52.59:498][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d7aab5b70, Size=4
+[2020.06.24-04.52.59:500][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.24-04.52.59:537][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 36.815ms to complete.
+[2020.06.24-04.52.59:537][  0]LogFileHelpers: Loading map 'TutorialMap' took 1.089
+[2020.06.24-04.52.59:882][  0]LogCollectionManager: Loaded 0 collections in 0.000870 seconds
+[2020.06.24-04.52.59:980][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/GeometryCatcherStarter/Saved/Collections/' took 0.01s
+[2020.06.24-04.52.59:980][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/GeometryCatcherStarter/Content/Developers/bunny/Collections/' took 0.01s
+[2020.06.24-04.52.59:980][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/GeometryCatcherStarter/Content/Collections/' took 0.01s
+[2020.06.24-04.52.59:980][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.06.24-04.52.59:995][  0]LogContentBrowser: Native class hierarchy populated in 0.0127 seconds. Added 2452 classes and 558 folders.
+[2020.06.24-04.53.00:017][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.24-04.53.00:385][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.24-04.53.00:403][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.06.24-04.53.00:691][  0]LogSlate: Took 0.002241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.24-04.53.00:701][  0]LogSlate: Took 0.002006 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.24-04.53.00:723][  0]LogSlate: Took 0.001973 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.24-04.53.00:900][  0]LogRenderer: Reallocating scene render targets to support 784x460 Format 10 NumSamples 1 (Frame:1).
+[2020.06.24-04.53.01:249][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.24-04.53.01:249][  0]LogLoad: (Engine Initialization) Total time: 49.49 seconds
+[2020.06.24-04.53.01:249][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.24-04.53.01:630][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.24-04.53.01:688][  0]LogSlate: Took 0.006773 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.24-04.53.01:950][  1]LogAssetRegistry: Asset discovery search completed in 25.4068 seconds
+[2020.06.24-04.53.01:954][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.06.24-04.53.01:954][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000831 seconds (updated 0 objects)
+[2020.06.24-04.53.55:046][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BackgroundPlane)
+[2020.06.24-04.54.05:764][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.24-04.54.05:765][685]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.24-04.54.05:823][685]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-04.54.05:830][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-04.54.05:882][685]PIE: New page: PIE session: TutorialMap (24-Jun-2020 3:54:05 pm)
+[2020.06.24-04.54.05:893][685]LogPlayLevel: Creating play world package: /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap
+[2020.06.24-04.54.05:945][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052017s)
+[2020.06.24-04.54.05:946][685]LogAIModule: Creating AISystem for world TutorialMap
+[2020.06.24-04.54.05:947][685]LogPlayLevel: PIE: World Init took: (0.001385s)
+[2020.06.24-04.54.05:947][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GeometryCatcher/Maps/TutorialMap.TutorialMap to /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.053580s)
+[2020.06.24-04.54.06:030][685]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.24-04.54.06:061][685]LogInit: FAudioDevice initialized.
+[2020.06.24-04.54.06:175][685]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.06.24-04.54.06:229][685]LogWorld: Bringing World /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.06.24-10.24.06
+[2020.06.24-04.54.06:263][685]LogWorld: Bringing up level for play took: 0.034300
+[2020.06.24-04.54.07:021][685]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2020.06.24-04.54.07:039][685]PIE: Play in editor start time for /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap 0.352
+[2020.06.24-04.54.07:039][685]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-04.54.19:090][395]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-04.54.19:157][395]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-04.54.21:019][500]LogSlate: Took 0.001550 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.24-04.54.21:024][500]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.24-04.54.21:147][500]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d7aab5ba0, Size=4
+[2020.06.24-04.54.21:147][500]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d0f6b6c68, Size=4, Default__TutorialMap_C Function /Engine/Transient.REINST_TutorialMap_C_15:ExecuteUbergraph_TutorialMap
+[2020.06.24-04.54.21:149][500]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d0f6b6940, Size=4, Default__TutorialMap_C Function /Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C:ExecuteUbergraph_TutorialMap
+[2020.06.24-04.54.21:592][500]LogSavePackage: Save=448.47ms
+[2020.06.24-04.54.21:592][500]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/TutorialMap66C880E6444945309C479985C374B15B.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Maps/TutorialMap.umap'
+[2020.06.24-04.54.21:627][500]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Maps/TutorialMap.umap
+[2020.06.24-04.54.58:576][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.24-04.55.05:243][737]LogMetaData: Removing '/Game/GeometryCatcher/UI/WBP_HUD.WBP_HUD_C' ref from Metadata '/Game/GeometryCatcher/WBP_HUD.PackageMetaData'
+[2020.06.24-04.55.05:243][737]LogMetaData: Removing '/Game/GeometryCatcher/UI/WBP_HUD.WBP_HUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/GeometryCatcher/WBP_HUD.PackageMetaData'
+[2020.06.24-04.55.05:243][737]LogMetaData: Removing '/Game/GeometryCatcher/UI/WBP_HUD.WBP_HUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/GeometryCatcher/WBP_HUD.PackageMetaData'
+[2020.06.24-04.55.05:244][737]LogMetaData: Removing '/Game/GeometryCatcher/UI/WBP_HUD.WBP_HUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/GeometryCatcher/WBP_HUD.PackageMetaData'
+[2020.06.24-04.55.05:244][737]LogMetaData: Removing '/Game/GeometryCatcher/UI/WBP_HUD.SKEL_WBP_HUD_C:PreConstruct' ref from Metadata '/Game/GeometryCatcher/WBP_HUD.PackageMetaData'
+[2020.06.24-04.55.05:244][737]LogMetaData: Removing '/Game/GeometryCatcher/UI/WBP_HUD.SKEL_WBP_HUD_C:Construct' ref from Metadata '/Game/GeometryCatcher/WBP_HUD.PackageMetaData'
+[2020.06.24-04.55.05:244][737]LogMetaData: Removing '/Game/GeometryCatcher/UI/WBP_HUD.SKEL_WBP_HUD_C:Tick' ref from Metadata '/Game/GeometryCatcher/WBP_HUD.PackageMetaData'
+[2020.06.24-04.55.05:244][737]LogMetaData: Removing '/Game/GeometryCatcher/UI/WBP_HUD.SKEL_WBP_HUD_C:TimerIcon' ref from Metadata '/Game/GeometryCatcher/WBP_HUD.PackageMetaData'
+[2020.06.24-04.55.05:244][737]LogMetaData: Removing '/Game/GeometryCatcher/UI/WBP_HUD.SKEL_WBP_HUD_C:CountIcon' ref from Metadata '/Game/GeometryCatcher/WBP_HUD.PackageMetaData'
+[2020.06.24-04.55.05:244][737]LogMetaData: Removing '/Game/GeometryCatcher/UI/WBP_HUD.SKEL_WBP_HUD_C' ref from Metadata '/Game/GeometryCatcher/WBP_HUD.PackageMetaData'
+[2020.06.24-04.55.05:244][737]LogMetaData: Removing '/Game/GeometryCatcher/UI/WBP_HUD.WBP_HUD_C:TimerIcon' ref from Metadata '/Game/GeometryCatcher/WBP_HUD.PackageMetaData'
+[2020.06.24-04.55.05:244][737]LogMetaData: Removing '/Game/GeometryCatcher/UI/WBP_HUD.WBP_HUD_C:CountIcon' ref from Metadata '/Game/GeometryCatcher/WBP_HUD.PackageMetaData'
+[2020.06.24-04.55.05:298][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/UI/WBP_HUD" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset" SILENT=true
+[2020.06.24-04.55.05:322][737]LogSavePackage: Save=21.84ms
+[2020.06.24-04.55.05:322][737]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/WBP_HUD77775CFC4789AAD276351EB3A4467360.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset'
+[2020.06.24-04.55.05:324][737]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset
+[2020.06.24-04.55.05:665][737]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d0f6b6c68, Size=4
+[2020.06.24-04.55.08:799][890]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2020.06.24-04.55.09:370][890]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d70d6e4e0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2020.06.24-04.55.09:375][890]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d70d6e4d8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2020.06.24-04.55.10:130][890]LogSlate: Took 0.006115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.24-04.55.19:528][224]BlueprintLog: New page: Compile WBP_HUD
+[2020.06.24-04.55.20:310][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/UI/WBP_HUD" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset" SILENT=true
+[2020.06.24-04.55.20:412][248]LogSavePackage: Save=15.80ms
+[2020.06.24-04.55.20:412][248]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/WBP_HUD207EECBF49F6865A2A7237BA2656D5EB.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset'
+[2020.06.24-04.55.20:413][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset
+[2020.06.24-04.55.40:971][148]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d8d5b6318, Size=4, Default__SKEL_BP_GameManager_C Function /Game/GeometryCatcher/Blueprints/BP_GameManager.SKEL_BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+[2020.06.24-05.04.21:515][106]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d0f6b6940, Size=4
+[2020.06.24-05.04.21:515][106]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d8c5f4d98, Size=4, Default__TutorialMap_C Function /Engine/Transient.REINST_TutorialMap_C_36:ExecuteUbergraph_TutorialMap
+[2020.06.24-05.04.21:516][106]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d8c5f7048, Size=4, Default__TutorialMap_C Function /Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C:ExecuteUbergraph_TutorialMap
+[2020.06.24-05.04.21:684][106]LogSavePackage: Save=171.14ms
+[2020.06.24-05.04.21:684][106]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/TutorialMap_Auto1EB7D42904A2E229D44982FBF507F4BE9.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Saved/Autosaves/Game/GeometryCatcher/Maps/TutorialMap_Auto1.umap'
+[2020.06.24-05.04.21:684][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Saved/Autosaves/Game/GeometryCatcher/Maps/TutorialMap_Auto1.umap
+[2020.06.24-05.04.21:702][106]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GeometryCatcher/Maps/TutorialMap' took 0.485
+[2020.06.24-05.04.21:702][106]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.485
+[2020.06.24-05.04.21:705][106]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GeometryCatcher/Blueprints/BP_GameManager] ([1] browsable assets)...
+[2020.06.24-05.04.21:705][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/GeometryCatcher/Blueprints/BP_GameManager]
+[2020.06.24-05.04.21:929][106]LogSavePackage: Save=63.16ms
+[2020.06.24-05.04.21:929][106]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/BP_GameManager_Auto19AAF080D482C5997BD4AA496414E7300.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Saved/Autosaves/Game/GeometryCatcher/Blueprints/BP_GameManager_Auto1.uasset'
+[2020.06.24-05.04.21:930][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Saved/Autosaves/Game/GeometryCatcher/Blueprints/BP_GameManager_Auto1.uasset
+[2020.06.24-05.04.21:930][106]LogFileHelpers: Auto-saving content packages took 0.226
+[2020.06.24-06.07.56:314][ 79]LogSlate: Took 0.009111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.24-06.08.49:391][792]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d8c5f4d98, Size=4
+[2020.06.24-06.08.49:392][792]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GeometryCatcher/Maps/TutorialMap' took 0.100
+[2020.06.24-06.08.49:394][792]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GeometryCatcher/Blueprints/BP_GameManager] ([1] browsable assets)...
+[2020.06.24-06.08.49:394][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/GeometryCatcher/Blueprints/BP_GameManager]
+[2020.06.24-06.08.49:577][792]LogSavePackage: Save=83.88ms
+[2020.06.24-06.08.49:577][792]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/BP_GameManager_Auto247EB34CA47FD0B4E9303B29416BABA1B.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Saved/Autosaves/Game/GeometryCatcher/Blueprints/BP_GameManager_Auto2.uasset'
+[2020.06.24-06.08.49:578][792]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Saved/Autosaves/Game/GeometryCatcher/Blueprints/BP_GameManager_Auto2.uasset
+[2020.06.24-06.08.49:578][792]LogFileHelpers: Auto-saving content packages took 0.185
+[2020.06.24-06.09.38:772][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/Blueprints/BP_GameManager" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset" SILENT=true
+[2020.06.24-06.09.38:836][208]LogSavePackage: Save=59.69ms
+[2020.06.24-06.09.38:836][208]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/BP_GameManagerE3A0758D4119FC09C9005A9ADFE41666.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset'
+[2020.06.24-06.09.38:841][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset
+[2020.06.24-06.09.40:066][280]BlueprintLog: New page: Compile BP_GameManager
+[2020.06.24-06.09.40:098][280]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d8d5b6318, Size=4
+[2020.06.24-06.09.40:098][280]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d8c5f61c8, Size=4, Default__SKEL_BP_GameManager_C Function /Engine/Transient.REINST_SKEL_BP_GameManager_C_38:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.09.40:129][280]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d0234af60, Size=208
+[2020.06.24-06.09.40:129][280]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d0234af60, Size=208, Default__BP_GameManager_C Function /Engine/Transient.REINST_BP_GameManager_C_42:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.09.40:146][280]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d6d600e20, Size=208, Default__BP_GameManager_C Function /Game/GeometryCatcher/Blueprints/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.09.40:365][280]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d8c5f61c8, Size=4
+[2020.06.24-06.09.41:078][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/Blueprints/BP_GameManager" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset" SILENT=true
+[2020.06.24-06.09.41:137][312]LogSavePackage: Save=57.16ms
+[2020.06.24-06.09.41:137][312]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/BP_GameManager1B36C0684E1AA76C1A22BAA7761CD606.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset'
+[2020.06.24-06.09.41:138][312]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset
+[2020.06.24-06.10.45:066][816]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.24-06.10.45:104][816]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.10.45:104][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-06.10.45:105][816]PIE: New page: PIE session: TutorialMap (24-Jun-2020 5:10:45 pm)
+[2020.06.24-06.10.45:105][816]LogPlayLevel: Creating play world package: /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap
+[2020.06.24-06.10.45:120][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015265s)
+[2020.06.24-06.10.45:124][816]LogAIModule: Creating AISystem for world TutorialMap
+[2020.06.24-06.10.45:124][816]LogPlayLevel: PIE: World Init took: (0.003711s)
+[2020.06.24-06.10.45:124][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GeometryCatcher/Maps/TutorialMap.TutorialMap to /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.019345s)
+[2020.06.24-06.10.45:142][816]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d0234af60, Size=208
+[2020.06.24-06.10.45:153][816]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.24-06.10.45:188][816]LogInit: FAudioDevice initialized.
+[2020.06.24-06.10.45:234][816]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.06.24-06.10.45:236][816]LogWorld: Bringing World /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.06.24-11.40.45
+[2020.06.24-06.10.45:237][816]LogWorld: Bringing up level for play took: 0.001682
+[2020.06.24-06.10.45:596][816]PIE: Play in editor start time for /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap 0.909
+[2020.06.24-06.10.45:596][816]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.10.59:842][654]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.10.59:883][654]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.11.39:137][841]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.24-06.12.36:127][870]LogSlate: Took 0.124714 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.06.24-06.13.16:859][265]BlueprintLog: New page: Compile WBP_HUD
+[2020.06.24-06.13.17:749][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/UI/WBP_HUD" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset" SILENT=true
+[2020.06.24-06.13.17:846][288]LogSavePackage: Save=16.00ms
+[2020.06.24-06.13.17:846][288]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/WBP_HUD6E3A94C34E7B2439AAC55EA37BD8F2A0.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset'
+[2020.06.24-06.13.17:849][288]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset
+[2020.06.24-06.13.58:016][660]BlueprintLog: New page: Compile WBP_HUD
+[2020.06.24-06.13.58:795][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/UI/WBP_HUD" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset" SILENT=true
+[2020.06.24-06.13.58:809][700]LogSavePackage: Save=11.95ms
+[2020.06.24-06.13.58:809][700]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/WBP_HUD3A411B914E921D576AF351AAFC1EEBD2.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset'
+[2020.06.24-06.13.58:809][700]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset
+[2020.06.24-06.14.27:408][372]BlueprintLog: New page: Compile BP_GameManager
+[2020.06.24-06.14.27:466][372]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d6d600e20, Size=208
+[2020.06.24-06.14.27:466][372]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d69b7d280, Size=208, Default__BP_GameManager_C Function /Engine/Transient.REINST_BP_GameManager_C_59:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.14.27:472][372]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d8badf4a0, Size=208, Default__BP_GameManager_C Function /Game/GeometryCatcher/Blueprints/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.14.28:060][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/Blueprints/BP_GameManager" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset" SILENT=true
+[2020.06.24-06.14.28:115][391]LogSavePackage: Save=46.83ms
+[2020.06.24-06.14.28:115][391]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/BP_GameManager3911406D426F3B643B55ADBE670D87E7.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset'
+[2020.06.24-06.14.28:116][391]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset
+[2020.06.24-06.15.17:135][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/Blueprints/BP_GameManager" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset" SILENT=true
+[2020.06.24-06.15.17:205][521]LogSavePackage: Save=67.90ms
+[2020.06.24-06.15.17:205][521]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/BP_GameManagerA1700C944155ED92ED2C44AE7A6D3C29.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset'
+[2020.06.24-06.15.17:206][521]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset
+[2020.06.24-06.15.17:905][562]BlueprintLog: New page: Compile BP_GameManager
+[2020.06.24-06.15.17:952][562]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d8badf4a0, Size=208
+[2020.06.24-06.15.17:952][562]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d8fc8c1e0, Size=208, BP_GameManager_C_55 Function /Engine/Transient.REINST_BP_GameManager_C_65:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.15.17:958][562]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d6d602160, Size=216, Default__BP_GameManager_C Function /Game/GeometryCatcher/Blueprints/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.15.18:140][562]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d69b7d280, Size=208
+[2020.06.24-06.15.18:527][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/Blueprints/BP_GameManager" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset" SILENT=true
+[2020.06.24-06.15.18:578][581]LogSavePackage: Save=49.45ms
+[2020.06.24-06.15.18:578][581]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/BP_GameManager3E0632F1401EAE9F7D8FE4BA01AADD1F.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset'
+[2020.06.24-06.15.18:579][581]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset
+[2020.06.24-06.16.27:980][514]BlueprintLog: New page: Compile BP_GameManager
+[2020.06.24-06.16.28:025][514]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d6d602160, Size=216
+[2020.06.24-06.16.28:025][514]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d8badd7c0, Size=216, Default__BP_GameManager_C Function /Engine/Transient.REINST_BP_GameManager_C_71:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.16.28:031][514]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d6d602160, Size=216, Default__BP_GameManager_C Function /Game/GeometryCatcher/Blueprints/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.16.28:209][514]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d8fc8c1e0, Size=208
+[2020.06.24-06.16.28:726][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/Blueprints/BP_GameManager" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset" SILENT=true
+[2020.06.24-06.16.28:775][541]LogSavePackage: Save=46.40ms
+[2020.06.24-06.16.28:775][541]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/BP_GameManager57489FF9487EF06998C67B8BF4D3D4F0.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset'
+[2020.06.24-06.16.28:777][541]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset
+[2020.06.24-06.16.36:409][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/Blueprints/BP_GameManager" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset" SILENT=true
+[2020.06.24-06.16.36:457][993]LogSavePackage: Save=45.71ms
+[2020.06.24-06.16.36:457][993]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/BP_GameManager317017EF47E2B0B3D506B5945291E50E.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset'
+[2020.06.24-06.16.36:458][993]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset
+[2020.06.24-06.16.37:128][ 33]BlueprintLog: New page: Compile BP_GameManager
+[2020.06.24-06.16.37:167][ 33]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d6d602160, Size=216
+[2020.06.24-06.16.37:167][ 33]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d02348720, Size=216, BP_GameManager_C_80 Function /Engine/Transient.REINST_BP_GameManager_C_77:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.16.37:172][ 33]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d934e5980, Size=216, Default__BP_GameManager_C Function /Game/GeometryCatcher/Blueprints/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.16.37:355][ 33]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d8badd7c0, Size=216
+[2020.06.24-06.16.37:817][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/Blueprints/BP_GameManager" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset" SILENT=true
+[2020.06.24-06.16.37:866][ 57]LogSavePackage: Save=46.45ms
+[2020.06.24-06.16.37:866][ 57]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/BP_GameManager07F589C44514B9C563BB18863F8538B1.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset'
+[2020.06.24-06.16.37:866][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset
+[2020.06.24-06.19.05:131][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d02348720, Size=216
+[2020.06.24-06.19.06:864][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d8c5f7048, Size=4
+[2020.06.24-06.19.06:865][548]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d8c5f7048, Size=4, Default__TutorialMap_C Function /Engine/Transient.REINST_TutorialMap_C_81:ExecuteUbergraph_TutorialMap
+[2020.06.24-06.19.06:865][548]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d8c5f56a0, Size=4, Default__TutorialMap_C Function /Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C:ExecuteUbergraph_TutorialMap
+[2020.06.24-06.19.06:958][548]LogSavePackage: Save=95.30ms
+[2020.06.24-06.19.06:958][548]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/TutorialMap_Auto33E4742534E9FAA7374F5448CAEA85B0B.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Saved/Autosaves/Game/GeometryCatcher/Maps/TutorialMap_Auto3.umap'
+[2020.06.24-06.19.06:959][548]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Saved/Autosaves/Game/GeometryCatcher/Maps/TutorialMap_Auto3.umap
+[2020.06.24-06.19.06:966][548]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GeometryCatcher/Maps/TutorialMap' took 1.854
+[2020.06.24-06.19.06:966][548]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.854
+[2020.06.24-06.19.38:859][742]BlueprintLog: New page: Compile WBP_HUD
+[2020.06.24-06.19.38:894][742]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d8c5f7048, Size=4
+[2020.06.24-06.19.39:514][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/UI/WBP_HUD" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset" SILENT=true
+[2020.06.24-06.19.39:534][767]LogSavePackage: Save=10.87ms
+[2020.06.24-06.19.39:534][767]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/WBP_HUD9723456B49DD1C5ECF6A10A357A84667.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset'
+[2020.06.24-06.19.39:535][767]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset
+[2020.06.24-06.20.41:474][325]LogEditorTransaction: Undo Move Node
+[2020.06.24-06.24.43:027][839]BlueprintLog: New page: Compile WBP_HUD
+[2020.06.24-06.24.43:658][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/UI/WBP_HUD" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset" SILENT=true
+[2020.06.24-06.24.43:690][872]LogSavePackage: Save=23.39ms
+[2020.06.24-06.24.43:691][872]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/WBP_HUDA2B96FA647BC39075818F98114DD8DB6.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset'
+[2020.06.24-06.24.43:693][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset
+[2020.06.24-06.24.49:517][ 88]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.24-06.24.49:606][ 88]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.24.49:606][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-06.24.49:607][ 88]PIE: New page: PIE session: TutorialMap (24-Jun-2020 5:24:49 pm)
+[2020.06.24-06.24.49:607][ 88]LogPlayLevel: Creating play world package: /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap
+[2020.06.24-06.24.49:609][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001976s)
+[2020.06.24-06.24.49:609][ 88]LogAIModule: Creating AISystem for world TutorialMap
+[2020.06.24-06.24.49:609][ 88]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2020.06.24-06.24.49:609][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GeometryCatcher/Maps/TutorialMap.TutorialMap to /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002634s)
+[2020.06.24-06.24.49:647][ 88]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.24-06.24.49:675][ 88]LogInit: FAudioDevice initialized.
+[2020.06.24-06.24.49:710][ 88]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.06.24-06.24.49:712][ 88]LogWorld: Bringing World /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.06.24-11.54.49
+[2020.06.24-06.24.49:712][ 88]LogWorld: Bringing up level for play took: 0.000949
+[2020.06.24-06.24.49:714][ 88]PIE: Play in editor start time for /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap 1.027
+[2020.06.24-06.24.49:715][ 88]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.24.56:367][487]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.24.56:409][487]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.25.47:978][673]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.24-06.25.52:574][899]BlueprintLog: New page: Compile WBP_HUD
+[2020.06.24-06.25.53:341][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/UI/WBP_HUD" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset" SILENT=true
+[2020.06.24-06.25.53:362][940]LogSavePackage: Save=18.90ms
+[2020.06.24-06.25.53:363][940]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/WBP_HUDC263B94E4CC5BDE0E1B68D888AA01242.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset'
+[2020.06.24-06.25.53:363][940]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset
+[2020.06.24-06.26.41:850][284]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d8bd4fa58, Size=4, Default__SKEL_BP_GameManager_C Function /Game/GeometryCatcher/Blueprints/BP_GameManager.SKEL_BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.26.49:516][742]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d8bd4fa58, Size=4
+[2020.06.24-06.26.49:516][742]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d909d21d0, Size=4, Default__SKEL_BP_GameManager_C Function /Engine/Transient.REINST_SKEL_BP_GameManager_C_102:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.26.49:521][742]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d894dc418, Size=4, Default__SKEL_BP_GameManager_C Function /Game/GeometryCatcher/Blueprints/BP_GameManager.SKEL_BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.29.20:448][702]LogEditorTransaction: Undo Add Node
+[2020.06.24-06.32.01:897][566]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.06.24-06.32.28:166][106]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d894dc418, Size=4
+[2020.06.24-06.32.28:166][106]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d894dc418, Size=4, Default__SKEL_BP_GameManager_C Function /Engine/Transient.REINST_SKEL_BP_GameManager_C_105:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.32.28:170][106]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d894df6c0, Size=4, Default__SKEL_BP_GameManager_C Function /Game/GeometryCatcher/Blueprints/BP_GameManager.SKEL_BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.32.31:290][291]BlueprintLog: New page: Compile BP_GameManager
+[2020.06.24-06.32.31:314][291]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d894df6c0, Size=4
+[2020.06.24-06.32.31:314][291]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d894df6c0, Size=4, Default__SKEL_BP_GameManager_C Function /Engine/Transient.REINST_SKEL_BP_GameManager_C_107:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.32.31:332][291]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d934e5980, Size=216
+[2020.06.24-06.32.31:332][291]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d9791b4a0, Size=216, Default__BP_GameManager_C Function /Engine/Transient.REINST_BP_GameManager_C_112:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.32.31:338][291]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d908a9360, Size=216, Default__BP_GameManager_C Function /Game/GeometryCatcher/Blueprints/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.32.31:530][291]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d894df6c0, Size=4
+[2020.06.24-06.32.31:530][291]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d894dc418, Size=4
+[2020.06.24-06.32.31:530][291]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d909d21d0, Size=4
+[2020.06.24-06.32.32:023][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/Blueprints/BP_GameManager" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset" SILENT=true
+[2020.06.24-06.32.32:076][316]LogSavePackage: Save=45.92ms
+[2020.06.24-06.32.32:076][316]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/BP_GameManagerCF3AAABE4124398BBAB08BB1092ABEC7.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset'
+[2020.06.24-06.32.32:078][316]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset
+[2020.06.24-06.33.38:691][275]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d9791b4a0, Size=216
+[2020.06.24-06.33.38:702][275]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d8c5f56a0, Size=4
+[2020.06.24-06.33.38:702][275]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d909d1d00, Size=4, Default__TutorialMap_C Function /Engine/Transient.REINST_TutorialMap_C_116:ExecuteUbergraph_TutorialMap
+[2020.06.24-06.33.38:702][275]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d909d25b0, Size=4, Default__TutorialMap_C Function /Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C:ExecuteUbergraph_TutorialMap
+[2020.06.24-06.33.38:778][275]LogSavePackage: Save=77.71ms
+[2020.06.24-06.33.38:778][275]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/TutorialMap_Auto47053D4F1407DBA08B2258E81E78AC961.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Saved/Autosaves/Game/GeometryCatcher/Maps/TutorialMap_Auto4.umap'
+[2020.06.24-06.33.38:779][275]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Saved/Autosaves/Game/GeometryCatcher/Maps/TutorialMap_Auto4.umap
+[2020.06.24-06.33.38:783][275]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GeometryCatcher/Maps/TutorialMap' took 0.115
+[2020.06.24-06.33.38:783][275]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.115
+[2020.06.24-06.33.38:785][275]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GeometryCatcher/UI/WBP_HUD] ([1] browsable assets)...
+[2020.06.24-06.33.38:785][275]OBJ SavePackage: Finished generating thumbnails for package [/Game/GeometryCatcher/UI/WBP_HUD]
+[2020.06.24-06.33.38:806][275]LogSavePackage: Save=13.81ms
+[2020.06.24-06.33.38:806][275]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/WBP_HUD_Auto4C1EC43E749A7FCA7CA0DE79404538701.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Saved/Autosaves/Game/GeometryCatcher/UI/WBP_HUD_Auto4.uasset'
+[2020.06.24-06.33.38:807][275]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Saved/Autosaves/Game/GeometryCatcher/UI/WBP_HUD_Auto4.uasset
+[2020.06.24-06.33.38:807][275]LogFileHelpers: Auto-saving content packages took 0.023
+[2020.06.24-06.39.19:443][587]LogEditorTransaction: Undo Add Node
+[2020.06.24-06.39.19:446][587]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d8b4a9448, Size=4, Default__SKEL_WBP_HUD_C Function /Game/GeometryCatcher/UI/WBP_HUD.SKEL_WBP_HUD_C:ExecuteUbergraph_WBP_HUD
+[2020.06.24-06.40.56:607][261]BlueprintLog: New page: Compile WBP_HUD
+[2020.06.24-06.40.56:616][261]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d8b4a9448, Size=4
+[2020.06.24-06.40.56:616][261]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d9b36af98, Size=4, Default__SKEL_WBP_HUD_C Function /Engine/Transient.REINST_SKEL_WBP_HUD_C_24:ExecuteUbergraph_WBP_HUD
+[2020.06.24-06.40.56:646][261]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d909d1d00, Size=4
+[2020.06.24-06.40.56:646][261]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d9b36af98, Size=4
+[2020.06.24-06.40.57:086][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/UI/WBP_HUD" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset" SILENT=true
+[2020.06.24-06.40.57:111][284]LogSavePackage: Save=13.97ms
+[2020.06.24-06.40.57:111][284]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/WBP_HUDBD82CD0E4F3693D7070359820D33EF77.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset'
+[2020.06.24-06.40.57:115][284]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset
+[2020.06.24-06.41.58:290][705]BlueprintLog: New page: Compile BP_GameManager
+[2020.06.24-06.41.58:326][705]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d908a9360, Size=216
+[2020.06.24-06.41.58:326][705]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d023a51a0, Size=216, Default__BP_GameManager_C Function /Engine/Transient.REINST_BP_GameManager_C_128:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.41.58:332][705]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028da7ece240, Size=208, Default__BP_GameManager_C Function /Game/GeometryCatcher/Blueprints/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.41.58:944][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/Blueprints/BP_GameManager" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset" SILENT=true
+[2020.06.24-06.41.59:004][726]LogSavePackage: Save=50.14ms
+[2020.06.24-06.41.59:004][726]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/BP_GameManager544ECCF249EA609C821F0ABEAE95F2FB.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset'
+[2020.06.24-06.41.59:006][726]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset
+[2020.06.24-06.42.09:521][345]BlueprintLog: New page: Compile BP_GameManager
+[2020.06.24-06.42.09:564][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028da7ece240, Size=208
+[2020.06.24-06.42.09:564][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028da37e0c60, Size=208, BP_GameManager_C_183 Function /Engine/Transient.REINST_BP_GameManager_C_135:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.42.09:570][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d6fcd6240, Size=216, Default__BP_GameManager_C Function /Game/GeometryCatcher/Blueprints/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.42.09:763][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d023a51a0, Size=216
+[2020.06.24-06.42.10:145][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/Blueprints/BP_GameManager" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset" SILENT=true
+[2020.06.24-06.42.10:195][363]LogSavePackage: Save=46.41ms
+[2020.06.24-06.42.10:195][363]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/BP_GameManagerD85C452548D454782DA79A881D760D53.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset'
+[2020.06.24-06.42.10:196][363]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset
+[2020.06.24-06.42.58:420][199]LogEditorTransaction: Undo Move Node
+[2020.06.24-06.42.58:427][199]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d9b239bc0, Size=4, Default__SKEL_BP_GameManager_C Function /Game/GeometryCatcher/Blueprints/BP_GameManager.SKEL_BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.42.59:575][263]LogEditorTransaction: Undo Add Node
+[2020.06.24-06.42.59:576][263]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d9b239bc0, Size=4
+[2020.06.24-06.42.59:576][263]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d92bac690, Size=4, Default__SKEL_BP_GameManager_C Function /Engine/Transient.REINST_SKEL_BP_GameManager_C_139:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.42.59:583][263]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d92bac2a8, Size=4, Default__SKEL_BP_GameManager_C Function /Game/GeometryCatcher/Blueprints/BP_GameManager.SKEL_BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.43.34:378][299]BlueprintLog: New page: Compile BP_GameManager
+[2020.06.24-06.43.34:397][299]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d92bac2a8, Size=4
+[2020.06.24-06.43.34:397][299]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d9b2392a8, Size=4, Default__SKEL_BP_GameManager_C Function /Engine/Transient.REINST_SKEL_BP_GameManager_C_141:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.43.34:416][299]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d6fcd6240, Size=216
+[2020.06.24-06.43.34:416][299]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d7da10100, Size=216, Default__BP_GameManager_C Function /Engine/Transient.REINST_BP_GameManager_C_146:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.43.34:421][299]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d8c983f20, Size=216, Default__BP_GameManager_C Function /Game/GeometryCatcher/Blueprints/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.43.34:612][299]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d9b2392a8, Size=4
+[2020.06.24-06.43.34:612][299]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028da37e0c60, Size=208
+[2020.06.24-06.43.34:612][299]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d92bac690, Size=4
+[2020.06.24-06.43.35:036][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/Blueprints/BP_GameManager" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset" SILENT=true
+[2020.06.24-06.43.35:087][321]LogSavePackage: Save=48.91ms
+[2020.06.24-06.43.35:088][321]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/BP_GameManagerD236061C4E1FCAE1C0E025B512249D2D.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset'
+[2020.06.24-06.43.35:089][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset
+[2020.06.24-06.43.41:419][699]BlueprintLog: New page: Compile WBP_HUD
+[2020.06.24-06.43.41:454][699]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d7da10100, Size=216
+[2020.06.24-06.43.41:853][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/UI/WBP_HUD" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset" SILENT=true
+[2020.06.24-06.43.41:869][719]LogSavePackage: Save=14.83ms
+[2020.06.24-06.43.41:869][719]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/WBP_HUD82162E2E4083B45B356A4DAC95073689.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset'
+[2020.06.24-06.43.41:871][719]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset
+[2020.06.24-06.43.45:025][906]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.24-06.43.45:051][906]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.43.45:051][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-06.43.45:051][906]PIE: New page: PIE session: TutorialMap (24-Jun-2020 5:43:45 pm)
+[2020.06.24-06.43.45:051][906]LogPlayLevel: Creating play world package: /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap
+[2020.06.24-06.43.45:053][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001906s)
+[2020.06.24-06.43.45:053][906]LogAIModule: Creating AISystem for world TutorialMap
+[2020.06.24-06.43.45:053][906]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2020.06.24-06.43.45:053][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GeometryCatcher/Maps/TutorialMap.TutorialMap to /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002539s)
+[2020.06.24-06.43.45:080][906]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.24-06.43.45:106][906]LogInit: FAudioDevice initialized.
+[2020.06.24-06.43.45:145][906]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.06.24-06.43.45:146][906]LogWorld: Bringing World /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.06.24-12.13.45
+[2020.06.24-06.43.45:146][906]LogWorld: Bringing up level for play took: 0.000517
+[2020.06.24-06.43.45:147][906]PIE: Play in editor start time for /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap 0.461
+[2020.06.24-06.43.45:148][906]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.43.54:844][383]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.43.54:885][383]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.43.55:529][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.24-06.43.55:613][425]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.24-06.43.55:634][425]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.43.55:634][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-06.43.55:634][425]PIE: New page: PIE session: TutorialMap (24-Jun-2020 5:43:55 pm)
+[2020.06.24-06.43.55:634][425]LogPlayLevel: Creating play world package: /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap
+[2020.06.24-06.43.55:636][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001956s)
+[2020.06.24-06.43.55:637][425]LogAIModule: Creating AISystem for world TutorialMap
+[2020.06.24-06.43.55:637][425]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2020.06.24-06.43.55:637][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GeometryCatcher/Maps/TutorialMap.TutorialMap to /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002579s)
+[2020.06.24-06.43.55:662][425]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.24-06.43.55:697][425]LogInit: FAudioDevice initialized.
+[2020.06.24-06.43.55:730][425]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.06.24-06.43.55:731][425]LogWorld: Bringing World /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.06.24-12.13.55
+[2020.06.24-06.43.55:731][425]LogWorld: Bringing up level for play took: 0.000564
+[2020.06.24-06.43.55:733][425]PIE: Play in editor start time for /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap 1.046
+[2020.06.24-06.43.55:733][425]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.44.08:618][198]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.44.08:651][198]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.44.10:190][288]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.24-06.44.10:235][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d909d25b0, Size=4
+[2020.06.24-06.44.10:235][288]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d9087b300, Size=4, Default__TutorialMap_C Function /Engine/Transient.REINST_TutorialMap_C_154:ExecuteUbergraph_TutorialMap
+[2020.06.24-06.44.10:235][288]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d9087a4d8, Size=4, Default__TutorialMap_C Function /Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C:ExecuteUbergraph_TutorialMap
+[2020.06.24-06.44.10:314][288]LogSavePackage: Save=80.76ms
+[2020.06.24-06.44.10:314][288]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/TutorialMapB33710824183D1DD9E8CB0BCB9EDC0B4.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Maps/TutorialMap.umap'
+[2020.06.24-06.44.10:318][288]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Maps/TutorialMap.umap
+[2020.06.24-06.45.18:570][614]BlueprintLog: New page: Compile BP_GameManager
+[2020.06.24-06.45.18:607][614]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d8c983f20, Size=216
+[2020.06.24-06.45.18:607][614]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d8b177820, Size=216, Default__BP_GameManager_C Function /Engine/Transient.REINST_BP_GameManager_C_161:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.45.18:957][614]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028dac9a4c60, Size=208, Default__BP_GameManager_C Function /Game/GeometryCatcher/Blueprints/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+[2020.06.24-06.45.19:140][614]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d9087b300, Size=4
+[2020.06.24-06.45.19:669][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/Blueprints/BP_GameManager" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset" SILENT=true
+[2020.06.24-06.45.19:723][640]LogSavePackage: Save=51.16ms
+[2020.06.24-06.45.19:723][640]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/BP_GameManager3E11F2D9470D4E56F60345AF840C48C0.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset'
+[2020.06.24-06.45.19:724][640]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset
+[2020.06.24-06.45.22:584][809]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.24-06.45.22:612][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.45.22:612][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-06.45.22:612][809]PIE: New page: PIE session: TutorialMap (24-Jun-2020 5:45:22 pm)
+[2020.06.24-06.45.22:612][809]LogPlayLevel: Creating play world package: /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap
+[2020.06.24-06.45.22:614][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001844s)
+[2020.06.24-06.45.22:614][809]LogAIModule: Creating AISystem for world TutorialMap
+[2020.06.24-06.45.22:614][809]LogPlayLevel: PIE: World Init took: (0.000492s)
+[2020.06.24-06.45.22:614][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GeometryCatcher/Maps/TutorialMap.TutorialMap to /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002434s)
+[2020.06.24-06.45.22:631][809]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d8b177820, Size=216
+[2020.06.24-06.45.22:641][809]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.24-06.45.22:666][809]LogInit: FAudioDevice initialized.
+[2020.06.24-06.45.22:695][809]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.06.24-06.45.22:697][809]LogWorld: Bringing World /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.06.24-12.15.22
+[2020.06.24-06.45.22:697][809]LogWorld: Bringing up level for play took: 0.000565
+[2020.06.24-06.45.22:698][809]PIE: Play in editor start time for /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap 0.011
+[2020.06.24-06.45.22:699][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.45.26:682][ 40]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.45.26:725][ 40]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-06.54.14:805][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d9087a4d8, Size=4
+[2020.06.24-06.54.14:805][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d9087a4d8, Size=4, Default__TutorialMap_C Function /Engine/Transient.REINST_TutorialMap_C_165:ExecuteUbergraph_TutorialMap
+[2020.06.24-06.54.14:805][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d90878170, Size=4, Default__TutorialMap_C Function /Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C:ExecuteUbergraph_TutorialMap
+[2020.06.24-06.54.14:892][661]LogSavePackage: Save=88.88ms
+[2020.06.24-06.54.14:892][661]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/TutorialMap_Auto5CD8658CF4C4D0A4704C28998025D86CA.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Saved/Autosaves/Game/GeometryCatcher/Maps/TutorialMap_Auto5.umap'
+[2020.06.24-06.54.14:892][661]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Saved/Autosaves/Game/GeometryCatcher/Maps/TutorialMap_Auto5.umap
+[2020.06.24-06.54.14:894][661]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GeometryCatcher/Maps/TutorialMap' took 0.126
+[2020.06.24-06.54.14:894][661]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.126
+[2020.06.24-07.25.02:083][203]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.24-07.39.41:193][400]BlueprintLog: New page: Compile WBP_HUD
+[2020.06.24-07.39.41:235][400]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d9087a4d8, Size=4
+[2020.06.24-07.39.41:838][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/UI/WBP_HUD" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset" SILENT=true
+[2020.06.24-07.39.41:880][432]LogSavePackage: Save=21.58ms
+[2020.06.24-07.39.41:880][432]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/WBP_HUD3EA5F2254B31069E6C0673AC9F67CAF8.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset'
+[2020.06.24-07.39.41:881][432]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset
+[2020.06.24-07.39.54:517][898]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.24-07.39.54:558][898]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-07.39.54:558][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-07.39.54:558][898]PIE: New page: PIE session: TutorialMap (24-Jun-2020 6:39:54 pm)
+[2020.06.24-07.39.54:559][898]LogPlayLevel: Creating play world package: /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap
+[2020.06.24-07.39.54:561][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002106s)
+[2020.06.24-07.39.54:562][898]LogAIModule: Creating AISystem for world TutorialMap
+[2020.06.24-07.39.54:562][898]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2020.06.24-07.39.54:562][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GeometryCatcher/Maps/TutorialMap.TutorialMap to /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.003166s)
+[2020.06.24-07.39.54:593][898]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.24-07.39.54:620][898]LogInit: FAudioDevice initialized.
+[2020.06.24-07.39.54:653][898]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.06.24-07.39.54:659][898]LogWorld: Bringing World /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.06.24-13.09.54
+[2020.06.24-07.39.54:659][898]LogWorld: Bringing up level for play took: 0.004784
+[2020.06.24-07.39.54:661][898]PIE: Play in editor start time for /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap -0.025
+[2020.06.24-07.39.54:662][898]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-07.40.05:857][569]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-07.40.05:893][569]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.06.24-07.40.30:673][682]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d90878170, Size=4
+[2020.06.24-07.40.30:673][682]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d8d5b5f10, Size=4, Default__TutorialMap_C Function /Engine/Transient.REINST_TutorialMap_C_176:ExecuteUbergraph_TutorialMap
+[2020.06.24-07.40.30:674][682]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d8d5b7f00, Size=4, Default__TutorialMap_C Function /Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C:ExecuteUbergraph_TutorialMap
+[2020.06.24-07.40.30:810][682]LogSavePackage: Save=140.15ms
+[2020.06.24-07.40.30:810][682]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/TutorialMap_Auto63013C37D42F549F3772B3693D9A8FA2A.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Saved/Autosaves/Game/GeometryCatcher/Maps/TutorialMap_Auto6.umap'
+[2020.06.24-07.40.30:812][682]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Saved/Autosaves/Game/GeometryCatcher/Maps/TutorialMap_Auto6.umap
+[2020.06.24-07.40.30:817][682]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GeometryCatcher/Maps/TutorialMap' took 0.185
+[2020.06.24-07.40.30:817][682]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.185
+[2020.06.24-07.41.37:936][884]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.24-07.41.43:972][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/Blueprints/BP_GameManager" FILE="../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset" SILENT=true
+[2020.06.24-07.41.44:039][ 36]LogSavePackage: Save=56.42ms
+[2020.06.24-07.41.44:039][ 36]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/BP_GameManagerED266498415579D68090FFB45B2A149D.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset'
+[2020.06.24-07.41.44:040][ 36]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset
+[2020.06.24-07.41.46:073][151]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d8d5b5f10, Size=4
+[2020.06.24-07.41.46:160][151]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d8d5b7f00, Size=4
+[2020.06.24-07.41.46:160][151]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d8d5b7f00, Size=4, Default__TutorialMap_C Function /Engine/Transient.REINST_TutorialMap_C_180:ExecuteUbergraph_TutorialMap
+[2020.06.24-07.41.46:161][151]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028d8d5b5868, Size=4, Default__TutorialMap_C Function /Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C:ExecuteUbergraph_TutorialMap
+[2020.06.24-07.41.46:240][151]LogSavePackage: Save=81.05ms
+[2020.06.24-07.41.46:240][151]LogSavePackage: Moving '../../../../../../Unreal/GeometryCatcherStarter/Saved/TutorialMapAF0955D945CE1002A033028FD2CE5B1D.tmp' to '../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Maps/TutorialMap.umap'
+[2020.06.24-07.41.46:244][151]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/GeometryCatcherStarter/Content/GeometryCatcher/Maps/TutorialMap.umap
+[2020.06.24-07.41.46:275][151]LogFileHelpers: Saving map 'TutorialMap' took 0.175
+[2020.06.24-07.41.47:828][242]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d8d5b7f00, Size=4
+[2020.06.24-07.41.48:303][242]LogSlate: Window 'BP_GameManager' being destroyed
+[2020.06.24-07.41.48:485][242]LogSlate: Window 'GeometryCatcher - Unreal Editor' being destroyed
+[2020.06.24-07.41.48:487][242]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.24-07.41.48:889][243]Cmd: QUIT_EDITOR
+[2020.06.24-07.41.49:336][243]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.06.24-07.41.49:349][243]LogExit: Preparing to exit.
+[2020.06.24-07.41.50:655][243]LogDirectoryWatcher: A directory notification for 'D:/Unreal/GeometryCatcherStarter/Content/' was aborted.
+[2020.06.24-07.41.50:817][243]LogExit: Editor shut down
+[2020.06.24-07.41.50:880][243]LogExit: Transaction tracking system shut down
+[2020.06.24-07.41.50:883][243]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028dac9a4c60, Size=208
+[2020.06.24-07.41.50:889][243]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d0234ae80, Size=200
+[2020.06.24-07.41.50:890][243]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d0234acc0, Size=196
+[2020.06.24-07.41.50:894][243]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d70d6e4e0, Size=4
+[2020.06.24-07.41.50:902][243]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d70d6e4d8, Size=4
+[2020.06.24-07.41.50:903][243]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028d8d5b5868, Size=4
+[2020.06.24-07.41.51:138][243]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.06.24-07.41.51:138][243]LogDirectoryWatcher: A directory notification for '../../../../../../Unreal/GeometryCatcherStarter/Content/' was aborted.
+[2020.06.24-07.41.51:138][243]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2020.06.24-07.41.51:138][243]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2020.06.24-07.41.51:138][243]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2020.06.24-07.41.51:138][243]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2020.06.24-07.41.51:138][243]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.06.24-07.41.51:138][243]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.06.24-07.41.52:492][243]LogExit: Object subsystem successfully closed.
+[2020.06.24-07.41.52:696][243]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.06.24-07.41.52:734][243]LogD3D11RHI: Shutdown
+[2020.06.24-07.41.52:734][243]LogD3D11RHI: CleanupD3DDevice
+[2020.06.24-07.41.52:757][243]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.06.24-07.41.53:657][243]LogModuleManager: Shutting down and abandoning module SequencerWidgets (580)
+[2020.06.24-07.41.53:657][243]LogModuleManager: Shutting down and abandoning module BlueprintGraph (578)
+[2020.06.24-07.41.53:657][243]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (576)
+[2020.06.24-07.41.53:657][243]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2020.06.24-07.41.53:657][243]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2020.06.24-07.41.53:668][243]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2020.06.24-07.41.53:678][243]LogDirectoryWatcher: A directory notification for 'D:/Tools/UE/UE_4.19/FeaturePacks/' was aborted.
+[2020.06.24-07.41.53:687][243]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2020.06.24-07.41.53:687][243]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2020.06.24-07.41.53:687][243]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2020.06.24-07.41.53:700][243]LogDirectoryWatcher: A directory notification for 'D:/Unreal/GeometryCatcherStarter/Content/Collections/' was aborted.
+[2020.06.24-07.41.53:700][243]LogDirectoryWatcher: A directory notification for 'D:/Unreal/GeometryCatcherStarter/Content/Developers/bunny/Collections/' was aborted.
+[2020.06.24-07.41.53:700][243]LogDirectoryWatcher: A directory notification for 'D:/Unreal/GeometryCatcherStarter/Saved/Collections/' was aborted.
+[2020.06.24-07.41.53:700][243]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2020.06.24-07.41.53:710][243]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2020.06.24-07.41.53:710][243]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2020.06.24-07.41.53:711][243]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2020.06.24-07.41.53:711][243]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2020.06.24-07.41.53:711][243]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2020.06.24-07.41.53:711][243]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2020.06.24-07.41.53:719][243]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2020.06.24-07.41.53:719][243]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2020.06.24-07.41.53:719][243]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2020.06.24-07.41.53:719][243]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2020.06.24-07.41.53:719][243]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2020.06.24-07.41.53:735][243]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2020.06.24-07.41.53:735][243]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2020.06.24-07.41.53:735][243]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2020.06.24-07.41.53:759][243]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2020.06.24-07.41.53:775][243]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2020.06.24-07.41.53:801][243]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2020.06.24-07.41.53:801][243]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2020.06.24-07.41.53:836][243]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2020.06.24-07.41.53:836][243]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2020.06.24-07.41.53:836][243]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2020.06.24-07.41.53:848][243]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2020.06.24-07.41.53:848][243]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2020.06.24-07.41.53:848][243]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2020.06.24-07.41.53:848][243]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2020.06.24-07.41.53:848][243]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2020.06.24-07.41.53:848][243]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2020.06.24-07.41.53:848][243]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2020.06.24-07.41.53:848][243]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2020.06.24-07.41.53:848][243]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2020.06.24-07.41.53:849][243]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2020.06.24-07.41.53:849][243]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2020.06.24-07.41.53:849][243]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2020.06.24-07.41.53:849][243]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2020.06.24-07.41.53:881][243]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2020.06.24-07.41.53:904][243]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2020.06.24-07.41.53:929][243]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2020.06.24-07.41.53:954][243]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2020.06.24-07.41.53:968][243]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2020.06.24-07.41.53:969][243]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2020.06.24-07.41.53:969][243]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2020.06.24-07.41.53:969][243]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2020.06.24-07.41.54:060][243]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2020.06.24-07.41.54:060][243]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2020.06.24-07.41.54:060][243]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2020.06.24-07.41.54:060][243]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2020.06.24-07.41.54:067][243]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2020.06.24-07.41.54:079][243]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2020.06.24-07.41.54:089][243]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2020.06.24-07.41.54:106][243]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2020.06.24-07.41.54:106][243]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2020.06.24-07.41.54:119][243]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2020.06.24-07.41.54:119][243]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2020.06.24-07.41.54:132][243]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2020.06.24-07.41.54:132][243]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2020.06.24-07.41.54:132][243]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2020.06.24-07.41.54:133][243]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2020.06.24-07.41.54:133][243]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2020.06.24-07.41.54:142][243]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2020.06.24-07.41.54:155][243]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2020.06.24-07.41.54:164][243]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2020.06.24-07.41.54:175][243]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2020.06.24-07.41.54:189][243]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2020.06.24-07.41.54:261][243]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2020.06.24-07.41.54:269][243]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2020.06.24-07.41.54:281][243]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2020.06.24-07.41.54:304][243]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2020.06.24-07.41.54:304][243]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2020.06.24-07.41.54:324][243]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2020.06.24-07.41.54:328][243]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2020.06.24-07.41.54:352][243]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2020.06.24-07.41.54:352][243]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2020.06.24-07.41.54:352][243]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2020.06.24-07.41.54:385][243]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2020.06.24-07.41.54:385][243]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2020.06.24-07.41.54:388][243]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2020.06.24-07.41.54:388][243]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2020.06.24-07.41.54:400][243]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2020.06.24-07.41.54:430][243]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2020.06.24-07.41.54:440][243]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2020.06.24-07.41.54:448][243]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2020.06.24-07.41.54:448][243]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2020.06.24-07.41.54:448][243]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2020.06.24-07.41.54:448][243]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2020.06.24-07.41.54:448][243]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2020.06.24-07.41.54:448][243]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2020.06.24-07.41.54:448][243]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2020.06.24-07.41.54:448][243]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2020.06.24-07.41.54:448][243]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2020.06.24-07.41.54:448][243]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2020.06.24-07.41.54:448][243]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2020.06.24-07.41.54:448][243]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2020.06.24-07.41.54:467][243]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2020.06.24-07.41.54:467][243]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2020.06.24-07.41.54:524][243]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2020.06.24-07.41.54:539][243]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2020.06.24-07.41.54:539][243]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2020.06.24-07.41.54:540][243]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2020.06.24-07.41.54:550][243]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2020.06.24-07.41.54:571][243]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2020.06.24-07.41.54:571][243]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2020.06.24-07.41.54:571][243]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2020.06.24-07.41.54:583][243]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2020.06.24-07.41.54:583][243]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2020.06.24-07.41.54:583][243]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2020.06.24-07.41.54:583][243]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2020.06.24-07.41.54:583][243]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2020.06.24-07.41.54:608][243]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2020.06.24-07.41.54:608][243]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2020.06.24-07.41.54:608][243]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2020.06.24-07.41.54:608][243]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2020.06.24-07.41.54:620][243]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2020.06.24-07.41.54:620][243]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2020.06.24-07.41.54:634][243]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2020.06.24-07.41.54:634][243]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2020.06.24-07.41.54:634][243]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2020.06.24-07.41.54:634][243]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2020.06.24-07.41.54:634][243]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2020.06.24-07.41.54:634][243]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2020.06.24-07.41.54:646][243]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2020.06.24-07.41.54:663][243]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2020.06.24-07.41.54:673][243]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2020.06.24-07.41.54:673][243]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2020.06.24-07.41.54:673][243]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2020.06.24-07.41.54:673][243]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2020.06.24-07.41.54:673][243]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2020.06.24-07.41.54:682][243]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2020.06.24-07.41.54:695][243]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2020.06.24-07.41.54:710][243]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2020.06.24-07.41.54:717][243]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2020.06.24-07.41.54:730][243]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2020.06.24-07.41.54:730][243]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2020.06.24-07.41.54:730][243]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2020.06.24-07.41.54:730][243]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2020.06.24-07.41.54:752][243]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2020.06.24-07.41.54:766][243]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2020.06.24-07.41.54:767][243]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2020.06.24-07.41.54:767][243]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2020.06.24-07.41.54:767][243]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2020.06.24-07.41.54:767][243]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2020.06.24-07.41.54:767][243]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2020.06.24-07.41.54:767][243]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2020.06.24-07.41.54:779][243]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2020.06.24-07.41.54:779][243]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2020.06.24-07.41.54:889][243]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2020.06.24-07.41.55:000][243]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2020.06.24-07.41.55:011][243]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2020.06.24-07.41.55:015][243]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2020.06.24-07.41.55:015][243]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2020.06.24-07.41.55:016][243]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2020.06.24-07.41.55:030][243]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2020.06.24-07.41.55:037][243]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2020.06.24-07.41.55:046][243]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2020.06.24-07.41.55:047][243]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2020.06.24-07.41.55:047][243]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2020.06.24-07.41.55:053][243]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2020.06.24-07.41.55:056][243]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2020.06.24-07.41.55:066][243]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2020.06.24-07.41.55:067][243]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2020.06.24-07.41.55:067][243]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2020.06.24-07.41.55:253][243]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2020.06.24-07.41.55:273][243]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2020.06.24-07.41.55:289][243]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2020.06.24-07.41.55:311][243]LogModuleManager: Shutting down and abandoning module Media (233)
+[2020.06.24-07.41.55:318][243]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2020.06.24-07.41.55:318][243]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2020.06.24-07.41.55:318][243]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2020.06.24-07.41.55:339][243]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2020.06.24-07.41.55:339][243]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2020.06.24-07.41.55:339][243]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2020.06.24-07.41.55:339][243]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2020.06.24-07.41.55:376][243]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2020.06.24-07.41.55:376][243]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2020.06.24-07.41.55:376][243]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2020.06.24-07.41.55:415][243]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2020.06.24-07.41.55:423][243]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2020.06.24-07.41.55:441][243]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2020.06.24-07.41.55:441][243]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2020.06.24-07.41.55:441][243]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2020.06.24-07.41.55:441][243]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2020.06.24-07.41.55:442][243]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2020.06.24-07.41.55:442][243]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2020.06.24-07.41.55:464][243]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2020.06.24-07.41.55:464][243]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2020.06.24-07.41.55:470][243]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2020.06.24-07.41.55:470][243]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2020.06.24-07.41.55:470][243]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2020.06.24-07.41.55:470][243]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2020.06.24-07.41.55:470][243]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2020.06.24-07.41.55:470][243]LogModuleManager: Shutting down and abandoning module Core (178)
+[2020.06.24-07.41.55:470][243]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2020.06.24-07.41.55:477][243]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2020.06.24-07.41.55:477][243]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2020.06.24-07.41.55:500][243]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2020.06.24-07.41.55:513][243]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2020.06.24-07.41.55:513][243]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2020.06.24-07.41.55:530][243]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2020.06.24-07.41.55:553][243]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2020.06.24-07.41.55:570][243]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2020.06.24-07.41.55:580][243]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2020.06.24-07.41.55:586][243]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.06.24-07.41.55:592][243]LogDerivedDataCache: Shutdown
+[2020.06.24-07.41.55:592][243]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.06.24-07.41.55:592][243]LogXGEController: Cleaning working directory: C:/Users/bunny/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.24-07.41.55:592][243]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.06.24-07.41.55:597][243]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.06.24-07.41.55:606][243]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.06.24-07.41.55:614][243]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.06.24-07.41.55:623][243]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.06.24-07.41.55:634][243]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.06.24-07.41.55:659][243]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.06.24-07.41.55:660][243]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.06.24-07.41.55:660][243]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.06.24-07.41.55:684][243]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.06.24-07.41.55:694][243]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.06.24-07.41.55:695][243]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.06.24-07.41.55:695][243]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.06.24-07.41.55:695][243]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.06.24-07.41.55:695][243]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.06.24-07.41.55:695][243]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.06.24-07.41.55:695][243]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2020.06.24-07.41.55:695][243]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2020.06.24-07.41.55:695][243]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2020.06.24-07.41.55:695][243]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2020.06.24-07.41.55:695][243]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2020.06.24-07.41.55:696][243]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2020.06.24-07.41.55:696][243]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2020.06.24-07.41.55:696][243]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2020.06.24-07.41.55:696][243]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2020.06.24-07.41.55:696][243]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2020.06.24-07.41.55:696][243]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2020.06.24-07.41.55:696][243]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2020.06.24-07.41.55:697][243]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2020.06.24-07.41.55:697][243]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2020.06.24-07.41.55:697][243]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2020.06.24-07.41.55:697][243]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2020.06.24-07.41.55:697][243]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2020.06.24-07.41.55:697][243]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2020.06.24-07.41.55:697][243]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2020.06.24-07.41.55:697][243]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2020.06.24-07.41.55:697][243]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2020.06.24-07.41.55:697][243]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2020.06.24-07.41.55:697][243]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2020.06.24-07.41.55:697][243]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2020.06.24-07.41.55:697][243]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2020.06.24-07.41.55:698][243]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2020.06.24-07.41.55:698][243]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2020.06.24-07.41.55:698][243]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2020.06.24-07.41.55:698][243]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2020.06.24-07.41.55:698][243]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2020.06.24-07.41.55:698][243]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2020.06.24-07.41.55:712][243]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2020.06.24-07.41.55:712][243]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2020.06.24-07.41.55:712][243]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2020.06.24-07.41.55:712][243]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2020.06.24-07.41.55:712][243]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2020.06.24-07.41.55:760][243]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2020.06.24-07.41.55:778][243]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.06.24-07.41.55:802][243]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.06.24-07.41.55:802][243]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF4935CD1-40B9-6F1C-CB82-819C84FD462D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=2730e5dc466eb63432bcd1b7c0bdff3e%7C6f54dd72770a42dcb91d06f7e13d5e8d%7C546f495d-5a82-4c1f-8804-982537b5775a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.06.24-07.41.55:802][243]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF4935CD1-40B9-6F1C-CB82-819C84FD462D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=2730e5dc466eb63432bcd1b7c0bdff3e%7C6f54dd72770a42dcb91d06f7e13d5e8d%7C546f495d-5a82-4c1f-8804-982537b5775a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.06.24-07.41.55:834][243]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.06.24-07.41.55:852][243]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.06.24-07.41.55:863][243]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.06.24-07.41.55:895][243]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.06.24-07.41.55:919][243]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.06.24-07.41.55:934][243]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.06.24-07.41.55:934][243]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.06.24-07.41.55:934][243]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.06.24-07.41.55:955][243]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.06.24-07.41.55:972][243]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.06.24-07.41.55:972][243]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.06.24-07.41.55:977][243]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.06.24-07.41.55:977][243]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.06.24-07.41.55:977][243]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.06.24-07.41.55:977][243]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.06.24-07.41.55:989][243]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.06.24-07.41.55:989][243]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.06.24-07.41.55:999][243]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.06.24-07.41.56:010][243]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.06.24-07.41.56:046][243]LogExit: Exiting.
+[2020.06.24-07.41.56:095][243]Log file closed, 06/24/20 13:11:56
